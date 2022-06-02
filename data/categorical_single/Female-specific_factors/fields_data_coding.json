@@ -1,0 +1,67 @@
+{
+    "2674": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "2694": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "2724": {
+        "1": "Yes",
+        "0": "No",
+        "2": "Not sure - had a hysterectomy",
+        "3": "Not sure - other reason",
+        "-3": "Prefer not to answer"
+    },
+    "2774": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "2784": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "2814": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "2834": {
+        "1": "Yes",
+        "0": "No",
+        "-5": "Not sure",
+        "-3": "Prefer not to answer"
+    },
+    "3591": {
+        "1": "Yes",
+        "0": "No",
+        "-5": "Not sure",
+        "-3": "Prefer not to answer"
+    },
+    "3720": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "10132": {
+        "1": "Microval",
+        "2": "Micronor",
+        "3": "Noriday",
+        "4": "Norgeston",
+        "5": "Femulen",
+        "6": "Cerazette",
+        "-1": "None of the above",
+        "-3": "Prefer not to answer"
+    }
+}

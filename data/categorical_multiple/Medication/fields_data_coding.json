@@ -1,0 +1,101 @@
+{
+    "6153": {
+        "1": "Cholesterol lowering medication",
+        "2": "Blood pressure medication",
+        "3": "Insulin",
+        "4": "Hormone replacement therapy",
+        "5": "Oral contraceptive pill or minipill",
+        "-7": "None of the above",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "6154": {
+        "1": "Aspirin",
+        "2": "Ibuprofen (e.g. Nurofen)",
+        "3": "Paracetamol",
+        "4": "Ranitidine (e.g. Zantac)",
+        "5": "Omeprazole (e.g. Zanprol)",
+        "6": "Laxatives (e.g. Dulcolax, Senokot)",
+        "-7": "None of the above",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "6155": {
+        "1": "Vitamin A",
+        "2": "Vitamin B",
+        "3": "Vitamin C",
+        "4": "Vitamin D",
+        "5": "Vitamin E",
+        "6": "Folic acid or Folate (Vit B9)",
+        "7": "Multivitamins +/- minerals",
+        "-7": "None of the above",
+        "-3": "Prefer not to answer"
+    },
+    "6177": {
+        "1": "Cholesterol lowering medication",
+        "2": "Blood pressure medication",
+        "3": "Insulin",
+        "-7": "None of the above",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "6179": {
+        "1": "Fish oil (including cod liver oil)",
+        "2": "Glucosamine",
+        "3": "Calcium",
+        "4": "Zinc",
+        "5": "Iron",
+        "6": "Selenium",
+        "-7": "None of the above",
+        "-3": "Prefer not to answer"
+    },
+    "10004": {
+        "1": "Aspirin",
+        "2": "Ibuprofen (e.g. Nurofen)",
+        "3": "Paracetamol",
+        "4": "Codeine",
+        "5": "Ranitidine (e.g. Zantac)",
+        "-7": "None of the above",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "10005": {
+        "1": "Omeprazole (e.g. Zanprol)",
+        "2": "Laxatives (e.g. Dulcolax, Senokot)",
+        "3": "Nicotine patches/sprays/tablets/gum etc",
+        "4": "Antihistamines (e.g. Loratidine, Cetirizine)",
+        "-7": "None of the above",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "10007": {
+        "1": "Evening primrose oil",
+        "2": "Fish oil (including cod liver oil",
+        "3": "Garlic",
+        "4": "Ginkgo",
+        "5": "Glucosamine",
+        "6": "Other supplements, vitamins or minerals",
+        "-7": "None of the above",
+        "-3": "Prefer not to answer"
+    },
+    "10723": {
+        "1": "Vitamin A",
+        "2": "Vitamin B",
+        "3": "Vitamin C",
+        "4": "Vitamin D",
+        "5": "Vitamin E",
+        "6": "Folic acid or Folate (Vit B9)",
+        "-7": "None of the above",
+        "-3": "Prefer not to answer"
+    },
+    "10854": {
+        "1": "Iron",
+        "2": "Zinc",
+        "3": "Calcium",
+        "4": "Selenium",
+        "5": "Multivitamins",
+        "6": "Multivitamins with minerals",
+        "-7": "None of the above",
+        "-3": "Prefer not to answer"
+    }
+}

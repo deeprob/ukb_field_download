@@ -1,0 +1,31 @@
+{
+    "20458": {
+        "-818": "Prefer not to answer",
+        "-121": "Do not know",
+        "1": "Extremely happy",
+        "2": "Very happy",
+        "3": "Moderately happy",
+        "4": "Moderately unhappy",
+        "5": "Very unhappy",
+        "6": "Extremely unhappy"
+    },
+    "20459": {
+        "-818": "Prefer not to answer",
+        "-121": "Do not know",
+        "1": "Extremely happy",
+        "2": "Very happy",
+        "3": "Moderately happy",
+        "4": "Moderately unhappy",
+        "5": "Very unhappy",
+        "6": "Extremely unhappy"
+    },
+    "20460": {
+        "-818": "Prefer not to answer",
+        "-121": "Do not know",
+        "1": "Not at all",
+        "2": "A little",
+        "3": "A moderate amount",
+        "4": "Very much",
+        "5": "An extreme amount"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "20462": {
+        "-818": "Prefer not to answer",
+        "-121": "Do not know",
+        "0": "Not distressing at all, it was a positive experience",
+        "1": "Not distressing, a neutral experience",
+        "2": "A bit distressing",
+        "3": "Quite distressing",
+        "4": "Very distressing"
+    },
+    "20463": {
+        "-818": "Prefer not to answer",
+        "-121": "Do not know",
+        "0": "No",
+        "1": "Yes"
+    },
+    "20466": {
+        "-818": "Prefer not to answer",
+        "-121": "Do not know",
+        "0": "No",
+        "1": "Yes"
+    },
+    "20467": {
+        "-818": "Prefer not to answer",
+        "0": "Not at all",
+        "1": "Once or twice",
+        "2": "Less than once a month",
+        "3": "More than once a month",
+        "4": "Nearly every day or daily"
+    },
+    "20468": {
+        "-818": "Prefer not to answer",
+        "-121": "Do not know",
+        "0": "No",
+        "1": "Yes"
+    },
+    "20471": {
+        "-818": "Prefer not to answer",
+        "-121": "Do not know",
+        "0": "No",
+        "1": "Yes"
+    },
+    "20474": {
+        "-818": "Prefer not to answer",
+        "-121": "Do not know",
+        "0": "No",
+        "1": "Yes"
+    },
+    "20477": {
+        "-818": "Prefer not to answer",
+        "-121": "Do not know",
+        "0": "No",
+        "1": "Yes"
+    }
+}

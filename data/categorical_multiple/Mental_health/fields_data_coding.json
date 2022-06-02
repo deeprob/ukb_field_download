@@ -1,0 +1,31 @@
+{
+    "6145": {
+        "1": "Serious illness, injury or assault to yourself",
+        "2": "Serious illness, injury or assault of a close relative",
+        "3": "Death of a close relative",
+        "4": "Death of a spouse or partner",
+        "5": "Marital separation/divorce",
+        "6": "Financial difficulties",
+        "-7": "None of the above",
+        "-3": "Prefer not to answer"
+    },
+    "6156": {
+        "11": "I was more active than usual",
+        "12": "I was more talkative than usual",
+        "13": "I needed less sleep than usual",
+        "14": "I was more creative or had more ideas than usual",
+        "15": "All of the above",
+        "-7": "None of the above"
+    },
+    "10721": {
+        "1": "Serious illness, injury or assault to yourself",
+        "2": "Serious illness, injury or assault of a close relative",
+        "3": "Death of a close relative",
+        "4": "Death of a spouse or partner",
+        "5": "Marital separation/divorce",
+        "6": "Financial difficulties",
+        "-7": "None of the above",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    }
+}

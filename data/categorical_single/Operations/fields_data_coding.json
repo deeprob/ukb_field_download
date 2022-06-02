@@ -1,0 +1,24 @@
+{
+    "2415": {
+        "1": "Yes - you will be asked about this later by an interviewer",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "2844": {
+        "1": "Yes - you will be asked about this later by an interviewer",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "3079": {
+        "1": "Yes",
+        "0": "No"
+    },
+    "20014": {
+        "-5": "Year of event",
+        "-4": "Age at event",
+        "-3": "Preferred not to answer",
+        "-1": "Time uncertain/unknown"
+    }
+}

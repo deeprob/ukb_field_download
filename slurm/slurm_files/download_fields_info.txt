@@ -1,0 +1,2 @@
+/data5/deepro/ukbiobank/download/download_phenotypes/data/project_page.html /data5/deepro/ukbiobank/download/download_phenotypes/data/phenotype_types_html/categorical_multiple.html /data5/deepro/ukbiobank/download/download_phenotypes/data/categorical_multiple
+/data5/deepro/ukbiobank/download/download_phenotypes/data/project_page.html /data5/deepro/ukbiobank/download/download_phenotypes/data/phenotype_types_html/categorical_single.html /data5/deepro/ukbiobank/download/download_phenotypes/data/categorical_single

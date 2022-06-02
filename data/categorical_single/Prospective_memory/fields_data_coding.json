@@ -1,0 +1,30 @@
+{
+    "4287": {
+        "3": "complete",
+        "9": "abandoned"
+    },
+    "4292": {
+        "-1": "Participant skipped/abandonded",
+        "0": "Blue square",
+        "1": "Pink star",
+        "2": "Grey cross",
+        "3": "Orange circle"
+    },
+    "4293": {
+        "-1": "Participant skipped/abandonded",
+        "0": "Blue square",
+        "1": "Pink star",
+        "2": "Grey cross",
+        "3": "Orange circle"
+    },
+    "4294": {
+        "0": "no",
+        "1": "yes",
+        "9": "abandon"
+    },
+    "20018": {
+        "0": "Instruction not recalled, either skipped or incorrect",
+        "1": "Correct recall on first attempt",
+        "2": "Correct recall on second attempt"
+    }
+}

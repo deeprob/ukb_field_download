@@ -1,0 +1,21 @@
+{
+    "25040": "Median BOLD effect (in group-defined mask) for shapes activation",
+    "25042": "Median z-statistic (in group-defined mask) for shapes activation",
+    "25044": "Median BOLD effect (in group-defined mask) for faces activation",
+    "25046": "Median z-statistic (in group-defined mask) for faces activation",
+    "25048": "Median BOLD effect (in group-defined mask) for faces-shapes contrast",
+    "25050": "Median z-statistic (in group-defined mask) for faces-shapes contrast",
+    "25052": "Median BOLD effect (in group-defined amygdala activation mask) for faces-shapes contrast",
+    "25054": "Median z-statistic (in group-defined amygdala activation mask) for faces-shapes contrast",
+    "25740": "Discrepancy between tfMRI brain image and T1 brain image",
+    "25742": "Mean tfMRI head motion, averaged across space and time points",
+    "25745": "Inverted temporal signal-to-noise ratio in pre-processed tfMRI",
+    "25761": "90th percentile of BOLD effect (in group-defined mask) for shapes activation",
+    "25762": "90th percentile of z-statistic (in group-defined mask) for shapes activation",
+    "25763": "90th percentile of BOLD effect (in group-defined mask) for faces activation",
+    "25764": "90th percentile of z-statistic (in group-defined mask) for faces activation",
+    "25765": "90th percentile of BOLD effect (in group-defined mask) for faces-shapes contrast",
+    "25766": "90th percentile of z-statistic (in group-defined mask) for faces-shapes contrast",
+    "25767": "90th percentile of BOLD effect (in group-defined amygdala activation mask) for faces-shapes contrast",
+    "25768": "90th percentile of z-statistic (in group-defined amygdala activation mask) for faces-shapes contrast"
+}

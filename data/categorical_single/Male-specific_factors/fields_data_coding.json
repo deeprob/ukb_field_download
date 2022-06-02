@@ -1,0 +1,24 @@
+{
+    "2375": {
+        "1": "Younger than average",
+        "2": "About average age",
+        "3": "Older than average",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "2385": {
+        "1": "Younger than average",
+        "2": "About average age",
+        "3": "Older than average",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "2395": {
+        "1": "Pattern 1",
+        "2": "Pattern 2",
+        "3": "Pattern 3",
+        "4": "Pattern 4",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    }
+}

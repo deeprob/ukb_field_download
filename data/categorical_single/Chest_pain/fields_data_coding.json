@@ -1,0 +1,26 @@
+{
+    "2335": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "3606": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Unable to walk on the level",
+        "-3": "Prefer not to answer"
+    },
+    "3616": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "3751": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Unable to walk up hills or to hurry",
+        "-3": "Prefer not to answer"
+    }
+}

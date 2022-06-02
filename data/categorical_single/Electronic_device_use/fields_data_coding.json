@@ -1,0 +1,83 @@
+{
+    "1110": {
+        "0": "Never used mobile phone at least once per week",
+        "1": "One year or less",
+        "2": "Two to four years",
+        "3": "Five to eight years",
+        "4": "More than eight years",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1120": {
+        "0": "Less than 5mins",
+        "1": "5-29 mins",
+        "2": "30-59 mins",
+        "3": "1-3 hours",
+        "4": "4-6 hours",
+        "5": "More than 6 hours",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1130": {
+        "0": "Never or almost never",
+        "1": "Less than half the time",
+        "2": "About half the time",
+        "3": "More than half the time",
+        "4": "Always or almost always",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1140": {
+        "0": "No",
+        "1": "Yes, use is now less frequent",
+        "2": "Yes, use is now more frequent",
+        "3": "I didn't use a mobile phone two years ago",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1150": {
+        "1": "Left",
+        "2": "Right",
+        "3": "Equally left and right",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "2237": {
+        "0": "Never/rarely",
+        "1": "Sometimes",
+        "2": "Often",
+        "-3": "Prefer not to answer"
+    },
+    "10016": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "10105": {
+        "1": "Yes",
+        "0": "No",
+        "-3": "Prefer not to answer"
+    },
+    "10114": {
+        "1": "Yes",
+        "0": "No",
+        "-3": "Prefer not to answer"
+    },
+    "10749": {
+        "1": "Less than 10 mins",
+        "2": "10-19 mins",
+        "3": "20-29 mins",
+        "4": "30 mins or more",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "10886": {
+        "0": "No",
+        "1": "Yes, use is now less frequent",
+        "2": "Yes, use is now more frequent",
+        "3": "I didn't use a mobile phone one year ago",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    }
+}

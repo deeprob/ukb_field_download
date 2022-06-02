@@ -1,0 +1,13 @@
+{
+    "20546": {
+        "1": "Unprescribed medication (more than once)",
+        "3": "Medication prescribed to you (for at least two weeks)",
+        "4": "Drugs or alcohol (more than once)",
+        "-818": "Prefer not to answer"
+    },
+    "20547": {
+        "1": "Talking therapies, such as psychotherapy, counselling, group therapy or CBT",
+        "3": "Other therapeutic activities such as mindfulness, yoga or art classes",
+        "-818": "Prefer not to answer"
+    }
+}

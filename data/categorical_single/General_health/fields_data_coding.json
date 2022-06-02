@@ -1,0 +1,29 @@
+{
+    "2178": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Fair",
+        "4": "Poor",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "2188": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "2296": {
+        "1": "No falls",
+        "2": "Only one fall",
+        "3": "More than one fall",
+        "-3": "Prefer not to answer"
+    },
+    "2306": {
+        "0": "No - weigh about the same",
+        "2": "Yes - gained weight",
+        "3": "Yes - lost weight",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    }
+}

@@ -1,0 +1,246 @@
+{
+    "1920": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1930": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1940": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1950": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1960": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1970": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1980": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1990": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "2000": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "2010": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "2020": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "2030": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "2040": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "2050": {
+        "1": "Not at all",
+        "2": "Several days",
+        "3": "More than half the days",
+        "4": "Nearly every day",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "2060": {
+        "1": "Not at all",
+        "2": "Several days",
+        "3": "More than half the days",
+        "4": "Nearly every day",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "2070": {
+        "1": "Not at all",
+        "2": "Several days",
+        "3": "More than half the days",
+        "4": "Nearly every day",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "2080": {
+        "1": "Not at all",
+        "2": "Several days",
+        "3": "More than half the days",
+        "4": "Nearly every day",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "2090": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "2100": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "4526": {
+        "1": "Extremely happy",
+        "2": "Very happy",
+        "3": "Moderately happy",
+        "4": "Moderately unhappy",
+        "5": "Very unhappy",
+        "6": "Extremely unhappy",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "4537": {
+        "1": "Extremely happy",
+        "2": "Very happy",
+        "3": "Moderately happy",
+        "4": "Moderately unhappy",
+        "5": "Very unhappy",
+        "6": "Extremely unhappy",
+        "7": "I am not employed",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "4548": {
+        "1": "Extremely happy",
+        "2": "Very happy",
+        "3": "Moderately happy",
+        "4": "Moderately unhappy",
+        "5": "Very unhappy",
+        "6": "Extremely unhappy",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "4559": {
+        "1": "Extremely happy",
+        "2": "Very happy",
+        "3": "Moderately happy",
+        "4": "Moderately unhappy",
+        "5": "Very unhappy",
+        "6": "Extremely unhappy",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "4570": {
+        "1": "Extremely happy",
+        "2": "Very happy",
+        "3": "Moderately happy",
+        "4": "Moderately unhappy",
+        "5": "Very unhappy",
+        "6": "Extremely unhappy",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "4581": {
+        "1": "Extremely happy",
+        "2": "Very happy",
+        "3": "Moderately happy",
+        "4": "Moderately unhappy",
+        "5": "Very unhappy",
+        "6": "Extremely unhappy",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "4598": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "4631": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "4642": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "4653": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "5663": {
+        "11": "At least two days, but less than a week",
+        "12": "Less than a week",
+        "13": "A week or more",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "5674": {
+        "11": "No problems",
+        "12": "Needed treatment or caused problems with work, relationships, finances, the law or other aspects of life",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "20122": {
+        "1": "Bipolar Type I (Mania)",
+        "2": "Bipolar Type II (Hypomania)"
+    },
+    "20123": {
+        "1": "Yes",
+        "0": "No"
+    },
+    "20124": {
+        "1": "Yes",
+        "0": "No"
+    },
+    "20125": {
+        "1": "Yes",
+        "0": "No"
+    },
+    "20126": {
+        "0": "No Bipolar or Depression",
+        "1": "Bipolar I Disorder",
+        "2": "Bipolar II Disorder",
+        "3": "Probable Recurrent major depression (severe)",
+        "4": "Probable Recurrent major depression (moderate)",
+        "5": "Single Probable major depression episode"
+    }
+}

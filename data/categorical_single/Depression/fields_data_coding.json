@@ -1,0 +1,174 @@
+{
+    "20435": {
+        "-818": "Prefer not to answer",
+        "-121": "Do not know",
+        "0": "No",
+        "1": "Yes"
+    },
+    "20436": {
+        "-818": "Prefer not to answer",
+        "-121": "Do not know",
+        "1": "Less than half of the day",
+        "2": "About half of the day",
+        "3": "Most of the day",
+        "4": "All day long"
+    },
+    "20437": {
+        "-818": "Prefer not to answer",
+        "-121": "Do not know",
+        "0": "No",
+        "1": "Yes"
+    },
+    "20438": {
+        "-818": "Prefer not to answer",
+        "1": "Less than a month",
+        "2": "Between one and three months",
+        "3": "Over three months, but less than six months",
+        "4": "Over six months, but less than 12 months",
+        "5": "One to two years",
+        "6": "Over two years"
+    },
+    "20439": {
+        "-818": "Prefer not to answer",
+        "-121": "Do not know",
+        "1": "Less often",
+        "2": "Almost every day",
+        "3": "Every day"
+    },
+    "20440": {
+        "-818": "Prefer not to answer",
+        "0": "Not at all",
+        "1": "A little",
+        "2": "Somewhat",
+        "3": "A lot"
+    },
+    "20441": {
+        "-818": "Prefer not to answer",
+        "0": "No",
+        "1": "Yes"
+    },
+    "20445": {
+        "-818": "Prefer not to answer",
+        "-313": "Not applicable",
+        "-121": "Do not know",
+        "0": "No",
+        "1": "Yes"
+    },
+    "20446": {
+        "-818": "Prefer not to answer",
+        "0": "No",
+        "1": "Yes"
+    },
+    "20447": {
+        "-818": "Prefer not to answer",
+        "0": "No",
+        "1": "Yes"
+    },
+    "20448": {
+        "-818": "Prefer not to answer",
+        "-121": "Do not know",
+        "0": "No",
+        "1": "Yes"
+    },
+    "20449": {
+        "-818": "Prefer not to answer",
+        "-121": "Do not know",
+        "0": "No",
+        "1": "Yes"
+    },
+    "20450": {
+        "-818": "Prefer not to answer",
+        "-121": "Do not know",
+        "0": "No",
+        "1": "Yes"
+    },
+    "20507": {
+        "-818": "Prefer not to answer",
+        "1": "Not at all",
+        "2": "Several days",
+        "3": "More than half the days",
+        "4": "Nearly every day"
+    },
+    "20508": {
+        "-818": "Prefer not to answer",
+        "1": "Not at all",
+        "2": "Several days",
+        "3": "More than half the days",
+        "4": "Nearly every day"
+    },
+    "20510": {
+        "-818": "Prefer not to answer",
+        "1": "Not at all",
+        "2": "Several days",
+        "3": "More than half the days",
+        "4": "Nearly every day"
+    },
+    "20511": {
+        "-818": "Prefer not to answer",
+        "1": "Not at all",
+        "2": "Several days",
+        "3": "More than half the days",
+        "4": "Nearly every day"
+    },
+    "20513": {
+        "-818": "Prefer not to answer",
+        "1": "Not at all",
+        "2": "Several days",
+        "3": "More than half the days",
+        "4": "Nearly every day"
+    },
+    "20514": {
+        "-818": "Prefer not to answer",
+        "1": "Not at all",
+        "2": "Several days",
+        "3": "More than half the days",
+        "4": "Nearly every day"
+    },
+    "20517": {
+        "-818": "Prefer not to answer",
+        "1": "Not at all",
+        "2": "Several days",
+        "3": "More than half the days",
+        "4": "Nearly every day"
+    },
+    "20518": {
+        "-818": "Prefer not to answer",
+        "1": "Not at all",
+        "2": "Several days",
+        "3": "More than half the days",
+        "4": "Nearly every day"
+    },
+    "20519": {
+        "-818": "Prefer not to answer",
+        "1": "Not at all",
+        "2": "Several days",
+        "3": "More than half the days",
+        "4": "Nearly every day"
+    },
+    "20532": {
+        "-818": "Prefer not to answer",
+        "-121": "Do not know",
+        "0": "No",
+        "1": "Yes"
+    },
+    "20533": {
+        "0": "No",
+        "1": "Yes"
+    },
+    "20534": {
+        "0": "No",
+        "1": "Yes"
+    },
+    "20535": {
+        "0": "No",
+        "1": "Yes"
+    },
+    "20536": {
+        "-818": "Prefer not to answer",
+        "-121": "Do not know",
+        "0": "Stayed about the same or was on a diet",
+        "1": "Gained weight",
+        "2": "Lost weight",
+        "3": "Both gained and lost some weight during the episode"
+    }
+}

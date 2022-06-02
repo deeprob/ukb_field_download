@@ -1,0 +1,19 @@
+{
+    "25000": "Volumetric scaling from T1 head image to standard space",
+    "25001": "Volume of peripheral cortical grey matter (normalised for head size)",
+    "25002": "Volume of peripheral cortical grey matter",
+    "25003": "Volume of ventricular cerebrospinal fluid (normalised for head size)",
+    "25004": "Volume of ventricular cerebrospinal fluid",
+    "25005": "Volume of grey matter (normalised for head size)",
+    "25006": "Volume of grey matter",
+    "25007": "Volume of white matter (normalised for head size)",
+    "25008": "Volume of white matter",
+    "25009": "Volume of brain, grey+white matter (normalised for head size)",
+    "25010": "Volume of brain, grey+white matter",
+    "25025": "Volume of brain stem + 4th ventricle",
+    "25731": "Discrepancy between T1 brain image and standard-space brain template (linearly-aligned)",
+    "25732": "Discrepancy between T1 brain image and standard-space brain template (nonlinearly-aligned)",
+    "25733": "Amount of warping applied to non-linearly align T1 brain image to standard-space",
+    "25734": "Inverted signal-to-noise ratio in T1",
+    "25735": "Inverted contrast-to-noise ratio in T1"
+}

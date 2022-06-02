@@ -1,0 +1,21 @@
+{
+    "6142": {
+        "1": "In paid employment or self-employed",
+        "2": "Retired",
+        "3": "Looking after home and/or family",
+        "4": "Unable to work because of sickness or disability",
+        "5": "Unemployed",
+        "6": "Doing unpaid or voluntary work",
+        "7": "Full or part-time student",
+        "-7": "None of the above",
+        "-3": "Prefer not to answer"
+    },
+    "6143": {
+        "1": "Car/motor vehicle",
+        "2": "Walk",
+        "3": "Public transport",
+        "4": "Cycle",
+        "-7": "None of the above",
+        "-3": "Prefer not to answer"
+    }
+}

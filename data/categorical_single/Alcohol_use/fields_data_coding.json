@@ -1,0 +1,78 @@
+{
+    "20403": {
+        "-818": "Prefer not to answer",
+        "1": "1 or 2",
+        "2": "3 or 4",
+        "3": "5 or 6",
+        "4": "7, 8 or 9",
+        "5": "10 or more"
+    },
+    "20405": {
+        "0": "No",
+        "-818": "Prefer not to answer",
+        "1": "Yes, but not in the last year",
+        "2": "Yes, during the last year"
+    },
+    "20407": {
+        "-818": "Prefer not to answer",
+        "1": "Never",
+        "2": "Less than monthly",
+        "3": "Monthly",
+        "4": "Weekly",
+        "5": "Daily or almost daily"
+    },
+    "20408": {
+        "-818": "Prefer not to answer",
+        "1": "Never",
+        "2": "Less than monthly",
+        "3": "Monthly",
+        "4": "Weekly",
+        "5": "Daily or almost daily"
+    },
+    "20409": {
+        "-818": "Prefer not to answer",
+        "1": "Never",
+        "2": "Less than monthly",
+        "3": "Monthly",
+        "4": "Weekly",
+        "5": "Daily or almost daily"
+    },
+    "20411": {
+        "0": "No",
+        "-818": "Prefer not to answer",
+        "1": "Yes, but not in the last year",
+        "2": "Yes, during the last year"
+    },
+    "20412": {
+        "-818": "Prefer not to answer",
+        "1": "Never",
+        "2": "Less than monthly",
+        "3": "Monthly",
+        "4": "Weekly",
+        "5": "Daily or almost daily"
+    },
+    "20413": {
+        "-818": "Prefer not to answer",
+        "1": "Never",
+        "2": "Less than monthly",
+        "3": "Monthly",
+        "4": "Weekly",
+        "5": "Daily or almost daily"
+    },
+    "20414": {
+        "-818": "Prefer not to answer",
+        "0": "Never",
+        "1": "Monthly or less",
+        "2": "2 to 4 times a month",
+        "3": "2 to 3 times a week",
+        "4": "4 or more times a week"
+    },
+    "20416": {
+        "-818": "Prefer not to answer",
+        "1": "Never",
+        "2": "Less than monthly",
+        "3": "Monthly",
+        "4": "Weekly",
+        "5": "Daily or almost daily"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "403": "Number of times snap-button pressed",
+    "404": "Duration to first press of snap-button in each round",
+    "10141": "Number of times snap-button pressed (pilot)",
+    "10147": "Duration to first press of snap-button in each round (pilot)",
+    "20023": "Mean time to correctly identify matches"
+}

@@ -1,0 +1,6 @@
+{
+    "25739": "Discrepancy between rfMRI brain image and T1 brain image",
+    "25741": "Mean rfMRI head motion, averaged across space and time points",
+    "25743": "Inverted temporal signal-to-noise ratio in pre-processed rfMRI",
+    "25744": "Inverted temporal signal-to-noise ratio in artefact-cleaned pre-processed rfMRI"
+}

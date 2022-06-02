@@ -1,0 +1,17 @@
+{
+    "25026": "Median T2star in thalamus (left)",
+    "25027": "Median T2star in thalamus (right)",
+    "25028": "Median T2star in caudate (left)",
+    "25029": "Median T2star in caudate (right)",
+    "25030": "Median T2star in putamen (left)",
+    "25031": "Median T2star in putamen (right)",
+    "25032": "Median T2star in pallidum (left)",
+    "25033": "Median T2star in pallidum (right)",
+    "25034": "Median T2star in hippocampus (left)",
+    "25035": "Median T2star in hippocampus (right)",
+    "25036": "Median T2star in amygdala (left)",
+    "25037": "Median T2star in amygdala (right)",
+    "25038": "Median T2star in accumbens (left)",
+    "25039": "Median T2star in accumbens (right)",
+    "25738": "Discrepancy between SWI brain image and T1 brain image"
+}

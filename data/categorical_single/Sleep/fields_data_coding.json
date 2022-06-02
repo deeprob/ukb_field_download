@@ -1,0 +1,44 @@
+{
+    "1170": {
+        "1": "Not at all easy",
+        "2": "Not very easy",
+        "3": "Fairly easy",
+        "4": "Very easy",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1180": {
+        "1": "Definitely a 'morning' person",
+        "2": "More a 'morning' than 'evening' person",
+        "3": "More an 'evening' than a 'morning' person",
+        "4": "Definitely an 'evening' person",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1190": {
+        "1": "Never/rarely",
+        "2": "Sometimes",
+        "3": "Usually",
+        "-3": "Prefer not to answer"
+    },
+    "1200": {
+        "1": "Never/rarely",
+        "2": "Sometimes",
+        "3": "Usually",
+        "-3": "Prefer not to answer"
+    },
+    "1210": {
+        "1": "Yes",
+        "2": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1220": {
+        "0": "Never/rarely",
+        "1": "Sometimes",
+        "2": "Often",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer",
+        "3": "All of the time"
+    }
+}

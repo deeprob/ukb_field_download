@@ -1,0 +1,13 @@
+{
+    "40001": "Tree-like",
+    "40002": "Tree-like",
+    "40018": {
+        "2": "IC Death Format (2012 onwards)",
+        "1": "IC Death Format (2011 and earlier)",
+        "7": "Scottish Morbidity Record (SMR)",
+        "19": "Scottish Morbidity Record (SMR) 99B - 2015",
+        "54": "Scottish deaths (2017 - Jan 2018)",
+        "55": "Scottish deaths (2018 onwards)",
+        "52": "English and Welsh death (2020 onwards)"
+    }
+}

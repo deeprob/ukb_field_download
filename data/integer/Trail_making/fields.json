@@ -1,0 +1,16 @@
+{
+    "6348": "Duration to complete numeric path (trail #1)",
+    "6349": "Total errors traversing numeric path (trail #1)",
+    "6350": "Duration to complete alphanumeric path (trail #2)",
+    "6351": "Total errors traversing alphanumeric path (trail #2)",
+    "6770": "Errors before selecting correct item in numeric path (trail #1)",
+    "6771": "Errors before selecting correct item in alphanumeric path (trail #2)",
+    "6772": "Interval between previous point and current one in numeric path (trail #1)",
+    "6773": "Interval between previous point and current one in alphanumeric path (trail #2)",
+    "20147": "Errors before selecting correct item in numeric path (trail #1)",
+    "20148": "Errors before selecting correct item in alphanumeric path (trail #2)",
+    "20149": "Interval between previous point and current one in numeric path (trail #1)",
+    "20155": "Interval between previous point and current one in alphanumeric path (trail #2)",
+    "20247": "Total errors traversing numeric path (trail #1)",
+    "20248": "Total errors traversing alphanumeric path (trail #2)"
+}

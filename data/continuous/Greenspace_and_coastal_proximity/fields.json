@@ -1,0 +1,11 @@
+{
+    "24500": "Greenspace percentage, buffer 1000m",
+    "24501": "Domestic garden percentage, buffer 1000m",
+    "24502": "Water percentage, buffer 1000m",
+    "24503": "Greenspace percentage, buffer 300m",
+    "24504": "Domestic garden percentage, buffer 300m",
+    "24505": "Water percentage, buffer 300m",
+    "24506": "Natural environment percentage, buffer 1000m",
+    "24507": "Natural environment percentage, buffer 300m",
+    "24508": "Distance (Euclidean) to coast"
+}

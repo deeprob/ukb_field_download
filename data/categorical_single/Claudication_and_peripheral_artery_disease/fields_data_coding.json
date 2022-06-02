@@ -1,0 +1,65 @@
+{
+    "4728": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "5452": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "5463": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "5474": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "5485": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "5496": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "5507": {
+        "1": "Stop",
+        "2": "Slow down",
+        "3": "Continue at same pace",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "5518": {
+        "1": "Pain usually continues for more than 10 minutes",
+        "2": "Pain usually disappears in less than 10 minutes",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "5529": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "5540": {
+        "0": "No",
+        "1": "Yes, toes",
+        "2": "Yes, leg below the knee",
+        "3": "Yes, leg above the knee",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "41229": "PCT responsible for patient data",
+    "41230": "PCT where patients GP was registered",
+    "41231": "Hospital episode type",
+    "41232": "Administrative and legal statuses",
+    "41244": "Intended management of patient (recoded)",
+    "41245": "Main speciality of consultant (recoded)",
+    "41246": "Treatment speciality of consultant (recoded)",
+    "41247": "Patient classification on admission (recoded)",
+    "41248": "Destinations on discharge from hospital (recoded)",
+    "41249": "Methods of admission to hospital (recoded)",
+    "41250": "Methods of discharge from hospital (recoded)",
+    "41251": "Sources of admission to hospital (recoded)"
+}

@@ -1,0 +1,189 @@
+{
+    "1329": {
+        "0": "Never",
+        "1": "Less than once a week",
+        "2": "Once a week",
+        "3": "2-4 times a week",
+        "4": "5-6 times a week",
+        "5": "Once or more daily",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1339": {
+        "0": "Never",
+        "1": "Less than once a week",
+        "2": "Once a week",
+        "3": "2-4 times a week",
+        "4": "5-6 times a week",
+        "5": "Once or more daily",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1349": {
+        "0": "Never",
+        "1": "Less than once a week",
+        "2": "Once a week",
+        "3": "2-4 times a week",
+        "4": "5-6 times a week",
+        "5": "Once or more daily",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1359": {
+        "0": "Never",
+        "1": "Less than once a week",
+        "2": "Once a week",
+        "3": "2-4 times a week",
+        "4": "5-6 times a week",
+        "5": "Once or more daily",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1369": {
+        "0": "Never",
+        "1": "Less than once a week",
+        "2": "Once a week",
+        "3": "2-4 times a week",
+        "4": "5-6 times a week",
+        "5": "Once or more daily",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1379": {
+        "0": "Never",
+        "1": "Less than once a week",
+        "2": "Once a week",
+        "3": "2-4 times a week",
+        "4": "5-6 times a week",
+        "5": "Once or more daily",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1389": {
+        "0": "Never",
+        "1": "Less than once a week",
+        "2": "Once a week",
+        "3": "2-4 times a week",
+        "4": "5-6 times a week",
+        "5": "Once or more daily",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1408": {
+        "0": "Never",
+        "1": "Less than once a week",
+        "2": "Once a week",
+        "3": "2-4 times a week",
+        "4": "5-6 times a week",
+        "5": "Once or more daily",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1418": {
+        "1": "Full cream",
+        "2": "Semi-skimmed",
+        "3": "Skimmed",
+        "4": "Soya",
+        "5": "Other type of milk",
+        "6": "Never/rarely have milk",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1428": {
+        "1": "Butter/spreadable butter",
+        "3": "Other type of spread/margarine",
+        "0": "Never/rarely use spread",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer",
+        "2": "Flora Pro-Active/Benecol"
+    },
+    "1448": {
+        "1": "White",
+        "2": "Brown",
+        "3": "Wholemeal or wholegrain",
+        "4": "Other type of bread",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1468": {
+        "1": "Bran cereal (e.g. All Bran, Branflakes)",
+        "2": "Biscuit cereal (e.g. Weetabix)",
+        "3": "Oat cereal (e.g. Ready Brek, porridge)",
+        "4": "Muesli",
+        "5": "Other (e.g. Cornflakes, Frosties)",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1478": {
+        "1": "Never/rarely",
+        "2": "Sometimes",
+        "3": "Usually",
+        "4": "Always",
+        "-3": "Prefer not to answer"
+    },
+    "1508": {
+        "1": "Decaffeinated coffee (any type)",
+        "2": "Instant coffee",
+        "3": "Ground coffee (include espresso, filter etc)",
+        "4": "Other type of coffee",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1518": {
+        "1": "Very hot",
+        "2": "Hot",
+        "3": "Warm",
+        "-2": "Do not drink hot drinks",
+        "-3": "Prefer not to answer"
+    },
+    "1538": {
+        "0": "No",
+        "1": "Yes, because of illness",
+        "2": "Yes, because of other reasons",
+        "-3": "Prefer not to answer"
+    },
+    "1548": {
+        "1": "Never/rarely",
+        "2": "Sometimes",
+        "3": "Often",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "2654": {
+        "4": "Soft (tub) margarine",
+        "5": "Hard (block) margarine",
+        "6": "Olive oil based spread (eg: Bertolli)",
+        "7": "Polyunsaturated/sunflower oil based spread (eg: Flora)",
+        "2": "Flora Pro-Active or Benecol",
+        "8": "Other low or reduced fat spread",
+        "9": "Other type of spread/margarine",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "10767": {
+        "1": "Butter/spreadable butter",
+        "2": "Margarine",
+        "3": "Olive oil based spread",
+        "4": "Low or reduced fat spread",
+        "5": "Other type of spread",
+        "6": "Never/rarely use spread",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "10776": {
+        "1": "White",
+        "2": "Brown",
+        "3": "Wholemeal or wholegrain",
+        "4": "Other type of bread",
+        "5": "Never/rarely eat bread",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "10912": {
+        "1": "Never/rarely",
+        "2": "Sometimes",
+        "3": "Usually",
+        "4": "Always",
+        "-3": "Prefer not to answer"
+    }
+}

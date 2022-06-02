@@ -1,0 +1,19 @@
+{
+    "20553": {
+        "1": "Something not listed",
+        "2": "Swallowing dangerous objects or products",
+        "3": "Stopping prescribed medication",
+        "4": "Ingesting a medication in excess of the normal dose",
+        "5": "Self-injury such as self-cutting, scratching or hitting, etc.",
+        "6": "Ingesting alcohol or a recreational or illicit drug",
+        "-818": "Prefer not to answer"
+    },
+    "20554": {
+        "1": "See anyone from psychiatric or mental health services, including liaison services",
+        "3": "Need hospital treatment (eg A&E)",
+        "4": "Use a helpline / voluntary organization",
+        "5": "See own GP",
+        "6": "Receive help from friends / family / neighbours",
+        "-818": "Prefer not to answer"
+    }
+}

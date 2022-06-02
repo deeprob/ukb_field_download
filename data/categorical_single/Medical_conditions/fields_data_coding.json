@@ -1,0 +1,68 @@
+{
+    "2443": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "2453": {
+        "1": "Yes - you will be asked about this later by an interviewer",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "2463": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "2473": {
+        "1": "Yes - you will be asked about this later by an interviewer",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "2986": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "3005": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "3140": {
+        "1": "Yes",
+        "2": "Unsure",
+        "0": "No"
+    },
+    "4041": {
+        "1": "Yes",
+        "0": "No",
+        "-2": "Not applicable",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "10844": {
+        "1": "Yes",
+        "0": "No",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "20012": {
+        "-5": "Year of event",
+        "-4": "Age at event",
+        "-3": "Preferred not to answer",
+        "-1": "Time uncertain/unknown"
+    },
+    "20013": {
+        "-5": "Year of event",
+        "-4": "Age at event",
+        "-3": "Preferred not to answer",
+        "-1": "Time uncertain/unknown"
+    }
+}

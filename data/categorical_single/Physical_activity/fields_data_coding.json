@@ -1,0 +1,160 @@
+{
+    "924": {
+        "1": "Slow pace",
+        "2": "Steady average pace",
+        "3": "Brisk pace",
+        "-7": "None of the above",
+        "-3": "Prefer not to answer"
+    },
+    "943": {
+        "0": "None",
+        "1": "1-5 times a day",
+        "2": "6-10 times a day",
+        "3": "11-15 times a day",
+        "4": "16-20 times a day",
+        "5": "More than 20 times a day",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "971": {
+        "1": "Once in the last 4 weeks",
+        "2": "2-3 times in the last 4 weeks",
+        "3": "Once a week",
+        "4": "2-3 times a week",
+        "5": "4-5 times a week",
+        "6": "Every day",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "981": {
+        "1": "Less than 15 minutes",
+        "2": "Between 15 and 30 minutes",
+        "3": "Between 30 minutes and 1 hour",
+        "4": "Between 1 and 1.5 hours",
+        "5": "Between 1.5 and 2 hours",
+        "6": "Between 2 and 3 hours",
+        "7": "Over 3 hours",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "991": {
+        "1": "Once in the last 4 weeks",
+        "2": "2-3 times in the last 4 weeks",
+        "3": "Once a week",
+        "4": "2-3 times a week",
+        "5": "4-5 times a week",
+        "6": "Every day",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1001": {
+        "1": "Less than 15 minutes",
+        "2": "Between 15 and 30 minutes",
+        "3": "Between 30 minutes and 1 hour",
+        "4": "Between 1 and 1.5 hours",
+        "5": "Between 1.5 and 2 hours",
+        "6": "Between 2 and 3 hours",
+        "7": "Over 3 hours",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1011": {
+        "1": "Once in the last 4 weeks",
+        "2": "2-3 times in the last 4 weeks",
+        "3": "Once a week",
+        "4": "2-3 times a week",
+        "5": "4-5 times a week",
+        "6": "Every day",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1021": {
+        "1": "Less than 15 minutes",
+        "2": "Between 15 and 30 minutes",
+        "3": "Between 30 minutes and 1 hour",
+        "4": "Between 1 and 1.5 hours",
+        "5": "Between 1.5 and 2 hours",
+        "6": "Between 2 and 3 hours",
+        "7": "Over 3 hours",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "1100": {
+        "1": "Never/rarely",
+        "2": "Sometimes",
+        "3": "Often",
+        "4": "Most of the time",
+        "5": "Do not drive on the motorway",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "2624": {
+        "1": "Once in the last 4 weeks",
+        "2": "2-3 times in the last 4 weeks",
+        "3": "Once a week",
+        "4": "2-3 times a week",
+        "5": "4-5 times a week",
+        "6": "Every day",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "2634": {
+        "1": "Less than 15 minutes",
+        "2": "Between 15 and 30 minutes",
+        "3": "Between 30 minutes and 1 hour",
+        "4": "Between 1 and 1.5 hours",
+        "5": "Between 1.5 and 2 hours",
+        "6": "Between 2 and 3 hours",
+        "7": "Over 3 hours",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "3637": {
+        "1": "Once in the last 4 weeks",
+        "2": "2-3 times in the last 4 weeks",
+        "3": "Once a week",
+        "4": "2-3 times a week",
+        "5": "4-5 times a week",
+        "6": "Every day",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "3647": {
+        "1": "Less than 15 minutes",
+        "2": "Between 15 and 30 minutes",
+        "3": "Between 30 minutes and 1 hour",
+        "4": "Between 1 and 1.5 hours",
+        "5": "Between 1.5 and 2 hours",
+        "6": "Between 2 and 3 hours",
+        "7": "Over 3 hours",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "10953": {
+        "1": "Less than 30 mins",
+        "2": "30 mins to 1 hour",
+        "3": "1 to 2 hours",
+        "4": "2 to 4 hours",
+        "5": "More than 4 hours",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "10962": {
+        "1": "Less than 30 mins",
+        "2": "30 mins to 1 hour",
+        "3": "1 to 2 hours",
+        "4": "2 to 4 hours",
+        "5": "More than 4 hours",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    },
+    "10971": {
+        "1": "Less than 30 mins",
+        "2": "30 mins to 1 hour",
+        "3": "1 to 2 hours",
+        "4": "2 to 4 hours",
+        "5": "More than 4 hours",
+        "-1": "Do not know",
+        "-3": "Prefer not to answer"
+    }
+}
